@@ -4,6 +4,10 @@ body {
 }
 
 h1 {
-    color: darkblue;
-    background-color: lightblue;
+    color: crimson;
+    background-color: black;
+}
+
+h2 {
+    color: lightsalmon;
 }
